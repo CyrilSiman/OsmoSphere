@@ -1,3 +1,6 @@
+
+## Developpment still in progress.
+
 # OsmoSphere
 
 An simple application which control an Osmo Mobile gimbal when you want take a picture with Google Sphere camera.
@@ -24,4 +27,3 @@ Usage :
 
 OsmoSphere control your gimbal. As you can't communicate with Google Camera App, Osmo sphere wait some secondes between each picture.  
 
-Developpment in progress.
